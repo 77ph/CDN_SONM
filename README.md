@@ -25,7 +25,7 @@ Infrastructure Elements
     
  ![Standart CDN Scheme](https://lh6.googleusercontent.com/c8XmTH4G2oLfNvu9dNiEpnk7MKnpgQQ3ycea5YG3iXOv6xdGFJWok-YkftyWXGjA_yGD-cJjog0rqtlqQ6FXvyKovbeJTbBg4yplsAZ14y9YiPOv7bscaPn1WS_sTV7_xQcGwXy6)
    
-Step by step inatructions
+Step by step instructions
 =========================
 1. Register in [**WMS Panel**](https://wmspanel.com/). Registration is easy and you get two weeks free trial. **WMS Panel** is software for control all proucesses of CDN bussines and CDN network infrastrucure.
 2. Create at least one **Origin**. Origin or ingest server needed for store audio and video content for streaming to users. You can use [**nimble server**](https://wmspanel.com/nimble) or [**Wowza**](https://www.wowza.com) for that. Origins often used as a transcoders and transmuxsers. Because of that you need very stable server or two (for redundance).
