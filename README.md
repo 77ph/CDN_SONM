@@ -23,7 +23,7 @@ Infrastructure Elements
 - **Edge** - distributes traffic to end users.
 
     
- 
+ ![Standart CDN Scheme](https://lh6.googleusercontent.com/c8XmTH4G2oLfNvu9dNiEpnk7MKnpgQQ3ycea5YG3iXOv6xdGFJWok-YkftyWXGjA_yGD-cJjog0rqtlqQ6FXvyKovbeJTbBg4yplsAZ14y9YiPOv7bscaPn1WS_sTV7_xQcGwXy6)
    
 Step by step inatructions
 =========================
