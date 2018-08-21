@@ -56,11 +56,11 @@ You must install the customer software according to [SONM instructions](https://
 
       env:
 
-        WMSPANEL\_USER: user e-mail
+        WMSPANEL_USER: user e-mail
 
-        WMSPANEL\_PASS: user password
+        WMSPANEL_PASS: user password
 
-        WMSPANEL\_TOKEN: token
+        WMSPANEL_TOKEN: token
 
 Here you must insert the details, corresponding to your panel.
 
