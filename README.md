@@ -9,7 +9,7 @@ CDN step by step
 
 For the all the components of the CDN, virtualization in any form makes sense only for edge servers, that distribute traffic to end users. The core and origins are best to have as bare metal  in the property or long-term lease.
 
-The key component of the system is the streaming server (we are talking only about audio or video delivery), there are two well-known solutions on the market and both are not open source, unfortunately. Open source solutions also exist (ffmpeg for example), but they are not normally used in real business projects. In the pilot, we used the[nimble server](https://wmspanel.com/nimble).
+The key component of the system is the streaming server (we are talking only about audio or video delivery), there are two well-known solutions on the market and both are not open source, unfortunately. Open source solutions also exist (ffmpeg for example), but they are not normally used in real business projects. In the pilot, we used the [nimble server](https://wmspanel.com/nimble).
 
     
 
