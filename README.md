@@ -38,7 +38,7 @@ You must install the customer software according to [SONM instructions](https://
 
 - Go to the SONM marketplace and select the appropriate ask orders for sale. All further actions are performed using SONM CLI
 
-- Make a purchase using the command **sonmcli deal quick-buy <ask_id> [duration] [flags].** Check that the resources match the parameters of the tape drive and your tasks (the presence of an external IP, the necessary bandwidth).
+- Make a purchase using the command **sonmcli deal quick-buy <ask_id> [duration] [flags].** Check that the resources match the parameters of the tape drive and your tasks (**the presence of an external IP**, the necessary bandwidth).
 
 - Install the corresponding docker container using the task.yaml file with the command **sonmcli task start <deal_id> <task.yaml> [flags].** Example of a task.yaml file for a container docker with Nimble streamer:
 
